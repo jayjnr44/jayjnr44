@@ -17,7 +17,7 @@
   <li>🌱 Currently exploring: <strong>Full-stack development</strong> and <strong>mobile app development</strong></li>
   <li>💬 Ask me about <strong>Python, Flask, REST APIs, Postgres, or Git</strong></li>
   <li>👨‍💻 All of my projects are available at: <a href="https://github.com/[your-username]">github.com/[your-username]</a></li>
-  <li>📫 How to reach me: <a href="mailto:yourname@email.com">yourname@email.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:jayycrypt@gmail.com">jayycrypt@gmail.com</a></li>
 </ul>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,10 +33,10 @@
 - [ ] Dive into AI/ML for web-based applications
 - [ ] Learn React Native for cross-platform mobile apps
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourname@email.com">
+  </a> -->
+  <a href="mailto:jayycrypt@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/yourtwitter">

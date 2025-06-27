@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Karikari Felix Kuffour</h1>
 <h3 align="center">A passionate Software Engineer | Backend Developer | Web Enthusiast</h3>
 
 <p align="center">
